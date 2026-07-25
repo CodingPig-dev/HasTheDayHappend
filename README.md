@@ -1,4 +1,4 @@
-# HasTheDayHappend
+# HasTheDayHappened
 
 This repository is completly useless. Every day since the year 1900 gets added to the days json file after it has happened. The file is like a list of all the days that have already happened with each date marked as true.
 
